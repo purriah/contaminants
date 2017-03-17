@@ -3,9 +3,7 @@ var descriptionDict = {
   cadmium: 'Cadmium is an extremely toxic metal commonly found in industrial workplaces. Due to its low permissible exposure limit, overexposures may occur even in situations where trace quantities of cadmium are found. Cadmium is used extensively in electroplating, although the nature of the operation does not generally lead to overexposures. Cadmium is also found in some industrial paints and may represent a hazard when sprayed. Operations involving removal of cadmium paints by scraping or blasting may pose a significant hazard [5]. Safety limit is 1 x 10-3 mg/kg/day[6]. ',
   arsenic: 'Arsenic poisoning is a medical condition that occurs due to elevated levels of arsenic in the body. If exposure occurs over a brief period of time symptoms may include vomiting, abdominal pain, encephalopathy, and watery diarrhea that contains blood. Long-term exposure can result in thickening of the skin, darker skin, abdominal pain, diarrhea, heart disease, numbness, and cancer[3]. Safety limits are 0.5-2 parts per million[4]'
 }
-
 function initialise(data, svg) {
-
 
   // Add radio buttons
   var w= 285;
